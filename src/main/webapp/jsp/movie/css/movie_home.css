@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+*{
+	text-align:center;
+}
+
+th{
+	 background-color: #465468;
+  color: white;
+	
+}
+th, td {
+  padding: 15px;
+  text-align: center;
+	}
+
+tr:hover {background-color:#ddd;}
+.form-control{
+
+}
+
+table{
+	 
+	width:70%;
+	cellpadding:2;
+	margin-left:200px;
+}
+
+table,th,td{
+	 border:1px solid #ddd;
+}
