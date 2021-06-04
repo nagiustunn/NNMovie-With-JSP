@@ -1,4 +1,4 @@
-#NNMOVIE
+## NNMOVIE
 
  NNMOVIE is a movie archive collection. When you press the login button in the upper right corner, you can log in to our movie system and add movies to our system, delete movies from our system or update the movies in our system. So, do you have to log in? No!! When you press the movies button in the upper right corner, you can see all the movies saved in the system and have detailed information without logging into the system.
  
@@ -13,7 +13,7 @@
 
  Spring boot for Autoconfiguration Spring MVC For Web application development JSP used for User Interface JPA,Thymeleaf, Hibernate, Bootstrap used Database Used MySQL
  
-#IMAGES
+## IMAGES
 
  HOMEPAGE
  
@@ -59,7 +59,11 @@ ADMIN EDIT MOVIE PAGE
 
 ![](screenshots/edit%20_movie.png)
 
-#PROJECT RUN COMMAND
+## MySQL Insert
+
+After we have created your tables with MySQL, you can manually add users, administrators and movies, or you can add the information in the MySQL_insert file to your system with a query.
+
+## PROJECT RUN COMMAND
 
 download zip forder
 unzip and open folder with netbeans/eclipse ide
